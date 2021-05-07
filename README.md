@@ -7,12 +7,12 @@ Jaeho Kim<br/>
 hohoya33@gmail.com<br/>
 Seoul, Korea
 
-### Technologies:
+### Technologies
 <div style="display:flex;">
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="" width="48px" />
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="" width="48px" />
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" alt="" width="48">
   <img src="https://media.giphy.com/media/MhAjImzXlNF5r7m3O5/giphy.gif" alt="" width="48px" />
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" alt="" width="48">
 </div>
 
 

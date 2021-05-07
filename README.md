@@ -15,10 +15,6 @@ Seoul, Korea
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" alt="" width="48">
 </div>
 
-
-### Articles
-*
-
 ![hohoya's github stats](https://github-readme-stats.vercel.app/api?username=hohoya33&show_icons=true&count_private=true)
 
 
